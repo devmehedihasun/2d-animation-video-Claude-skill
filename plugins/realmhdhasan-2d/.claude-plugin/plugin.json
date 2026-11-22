@@ -1,0 +1,13 @@
+{
+  "name": "realmhdhasan-2d",
+  "description": "Bengali 2D cartoon storytelling & explainer Reels (9:16, 1080x1920, 30fps) from an .srt voiceover, built in Remotion with code-drawn SVG characters",
+  "version": "1.0.0",
+  "author": {
+    "name": "realmhdhasan",
+    "url": "https://github.com/devmehedihasun"
+  },
+  "homepage": "https://github.com/devmehedihasun/realmhdhasan-skills",
+  "repository": "https://github.com/devmehedihasun/realmhdhasan-skills",
+  "license": "MIT",
+  "keywords": ["bengali", "remotion", "animation", "reels", "srt", "2d", "storytelling"]
+}

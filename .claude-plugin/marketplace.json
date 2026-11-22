@@ -1,0 +1,15 @@
+{
+  "name": "realmhdhasan-skills",
+  "description": "Skills by realmhdhasan — Bengali 2D animation and storytelling reels",
+  "owner": {
+    "name": "realmhdhasan",
+    "url": "https://github.com/devmehedihasun"
+  },
+  "plugins": [
+    {
+      "name": "realmhdhasan-2d",
+      "source": "./plugins/realmhdhasan-2d",
+      "description": "Build Bengali 2D cartoon storytelling & explainer Reels (9:16) from an .srt voiceover with Remotion"
+    }
+  ]
+}
