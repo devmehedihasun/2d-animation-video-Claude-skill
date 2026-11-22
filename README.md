@@ -8,7 +8,7 @@ storytelling & explainer Reels, generated from an `.srt` voiceover.
 In Claude Code, run these two commands:
 
 ```
-/plugin marketplace add devmehedihasun/realmhdhasan-skills
+/plugin marketplace add devmehedihasun/2d-animation-video-Claude-skill
 ```
 
 ```
@@ -18,7 +18,7 @@ In Claude Code, run these two commands:
 From your shell instead of inside a session:
 
 ```bash
-claude plugin marketplace add devmehedihasun/realmhdhasan-skills
+claude plugin marketplace add devmehedihasun/2d-animation-video-Claude-skill
 claude plugin install realmhdhasan-2d@realmhdhasan-skills
 ```
 
